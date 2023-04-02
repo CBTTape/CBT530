@@ -1,0 +1,7 @@
+2023-04-03 00:58:53.792354 - Initialized conversion of CBT530
+2023-04-03 00:58:53.834920 - Received CBT.V504.FILE530.PDS from FILE530.XMI 
+2023-04-03 00:58:53.837492 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE530.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:58:53.838808 - Found $$$INST.txt (text/plain) in CBT.V504.FILE530.PDS, moved to PDS/$$$INST
+2023-04-03 00:58:53.839830 - Found @FILE530.txt (text/plain) in CBT.V504.FILE530.PDS, moved to PDS/@FILE530
+2023-04-03 00:58:53.840933 - Found FORM01.txt (text/plain) in CBT.V504.FILE530.PDS, moved to PDS/FORM01
+2023-04-03 00:58:53.841847 - Found FORM01Y.txt (text/plain) in CBT.V504.FILE530.PDS, moved to PDS/FORM01Y
