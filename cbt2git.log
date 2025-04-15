@@ -1,6 +1,6 @@
-2025-04-15 03:15:30.242720 - Received CBT.V508.FILE530.PDS from FILE530.XMI 
-2025-04-15 03:15:30.243830 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:15:30.244003 - Found $$$INST.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/$$$INST
-2025-04-15 03:15:30.244155 - Found @FILE530.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/@FILE530
-2025-04-15 03:15:30.244748 - Found FORM01.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/FORM01
-2025-04-15 03:15:30.244920 - Found FORM01Y.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/FORM01Y
+2025-04-15 22:01:33.149696 - Received CBT.V508.FILE530.PDS from FILE530.XMI 
+2025-04-15 22:01:33.151073 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:01:33.151337 - Found $$$INST.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/$$$INST
+2025-04-15 22:01:33.151402 - Found @FILE530.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/@FILE530
+2025-04-15 22:01:33.152131 - Found FORM01.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/FORM01
+2025-04-15 22:01:33.152332 - Found FORM01Y.txt (text/plain) in CBT.V508.FILE530.PDS, moved to PDS/FORM01Y
